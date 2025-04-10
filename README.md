@@ -1,2 +1,2 @@
-# PIA-TESEO
-PIA of TESEO topic
+# STSP-TESEO
+STSP implementation of TESEO topic
